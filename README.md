@@ -23,4 +23,3 @@ dipendenze eseguire il seguente comando dal terminale:
 
 python3 -m spacy download en_core_web_sm
 
-```

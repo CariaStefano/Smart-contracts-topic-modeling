@@ -1,22 +1,9 @@
 # Smart Contract: topic modeling 
 
-Questo repository contiene 47,398 smart contracts che sono stati clonati dal seguente repository: [SmartBugs](https://github.com/smartbugs/smartbugs-wild).
+Questo repository contiene l'analisi di 47,398 smart contracts che sono stati clonati dal seguente repository: [SmartBugs](https://github.com/smartbugs/smartbugs-wild).
 Si è proceduto a una clusterizzazione dei contratti sulla base del linguaggio naturale contenuto in ciascun contratto, seguita da una topic modeling.
 
 
-
-## Structure of the repository
-
-```
-├─ contracts
-│  └─ <contract_address>.sol
-├─img
-    └─<image>.png
-├─report
-    └─<file_name>.csv
-    └─<file_name>.html
-    
-```
 
 ## Clusterization
 **cluster analysis with tsne and bokeh.**

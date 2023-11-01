@@ -3,6 +3,7 @@
 Questo repository contiene l'analisi di 47,398 smart contracts che sono stati clonati dal seguente repository: [SmartBugs](https://github.com/smartbugs/smartbugs-wild).
 Si è proceduto a una clusterizzazione dei contratti sulla base del linguaggio naturale contenuto in ciascun contratto, seguita da una topic modeling.
 
+![Creative and Minimal Portfolio Presentation-2](https://github.com/CariaStefano/Smart-contracts-topic-modeling/assets/79990918/323b14bc-7522-4067-9364-ec0944449530)
 
 
 ## Clusterization
